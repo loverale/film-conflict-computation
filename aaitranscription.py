@@ -1,5 +1,4 @@
 import assemblyai as aai # assemblyai
-import fitz # 2nd version of pdf -> .txt
 from pydub import AudioSegment # breaks apart film file
 import math # math
 import os  # easier to make / write / store files onto pc
@@ -250,7 +249,8 @@ def iterative_process_audio(audio_path, film_script, movie_name):
 ## Start of Code to run everything ##
 
 #iterative_process_audio('./knives.flac', 'script_conversion.txt', "knives")
-single_transcription("./movies/knives.flac", "./output/knives.txt")
+#single_transcription("./movies/knives.flac", "./output/knives.txt")
+print("compile testing")
 
 
 
