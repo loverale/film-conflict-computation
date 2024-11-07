@@ -22,17 +22,6 @@ end_time = 0
 first_run = True # lazy of me
 warmup = True
 
-# general conversion of pdf script to text
-def pdf_conversion(pdf_path, temp):
-    print("Converting Script to .txt")
-    doc = fitz.open(pdf_path)
-    text = ""
-    for page in doc:
-        text += page.get_text()
-
-    with open(temp, 'w') as f:
-        f.write(text)
-
 def split_audio(audio_path, movie_name, length=300000):
 
     #grab file
