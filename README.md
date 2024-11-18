@@ -6,5 +6,5 @@
 
 ## Code Files
 - transcriber.py handles assemblyai transcription/diarization
-- pdf_parser.py takes the script and returns a text format that is accurate
+- pdf_parser2.py takes the script and returns a text format that is accurate
 - todo:// implement main.py -> matches the timestamps from transcriber.py with the lines of dialogue from pdf_parser.py
