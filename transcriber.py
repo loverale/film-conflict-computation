@@ -195,15 +195,18 @@ def master_transcription():
     os.remove(f"./claude_suggestions/claude_suggestion_{chunk_count-1}.json")
     os.remove(f"./raw_transcriptions/raw_transcription_{chunk_count-1}.txt")
 
+# transcription/diarization sometimes misses first chunk, warms up on a chunk before moving to others
 def warmup_sequence():
     transcript = transcribe_chunk("./warmup.flac")
 
+# placeholder for gpt variant, since claude cant be contained
 def gpt4o_replacement(transcript):
     print("placeholder")
 
+# just a single file (base assemblyai)
 def single_transcription(audio_path, file_path):
     print("Starting Full Transcription")
-    config = aai.TranscriptionConfig(speaker_labels=True)
+    config = aai.TranscriptionConfig(speaker_labels=True, speakers_expected=10)
     transcriber = aai.Transcriber()
     transcript = transcriber.transcribe(
         audio_path,
@@ -215,8 +218,11 @@ def single_transcription(audio_path, file_path):
         for utterance in transcript.utterances:
             start_time_transcript = utterance.start/1000
             end_time_transcript = utterance.end/1000
-            f.write(f"{start_time_transcript} - {end_time_transcript}: Speaker {utterance.speaker}: {utterance.text}\n")
+            calc_start = "%.2f" % (start_time_transcript) # round to two decimal
+            calc_end = "%.2f" % (end_time_transcript)
+            f.write(f"{calc_start} - {calc_end}: Speaker {utterance.speaker}: {utterance.text}\n")
 
+# this function separates the file into chunks, asks claude what it should replace, then replaces
 def iterative_process_audio(audio_path, film_script, movie_name):
     print("Starting Audio Processing")
     chunks = split_audio(audio_path, movie_name)
@@ -238,7 +244,7 @@ def iterative_process_audio(audio_path, film_script, movie_name):
 ## Start of Code to run everything ##
 
 #iterative_process_audio('./knives.flac', 'script_conversion.txt', "knives")
-#single_transcription("./movies/knives.flac", "./output/knives.txt")
+single_transcription("./movies/social.flac", "./output/social_trans.txt")
 print("compile testing")
 
 

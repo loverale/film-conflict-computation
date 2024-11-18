@@ -1,9 +1,7 @@
 import re
 import json
 import pymupdf
-
-doc = pymupdf.open("knives-out-2019.pdf") # open a document
-out = open("output.txt", "wb")
+from PyPDF2 import PdfReader
 
 # Parse the PDF and extract content
 def parse_script(pdf_path):
@@ -72,9 +70,12 @@ def save_as_json(parsed_data, output_path):
     with open(output_path, 'w') as outfile:
         json.dump(parsed_data, outfile, indent=4)    
 
-pdf_path = "knives-out-2019.pdf"  # Replace this with the actual path to your PDF
-output_json = "parsed_script.json"  # Output JSON file
+pdf_path = "./scripts/social.pdf"  # Replace this with the actual path to your PDF
+output_json = "./output/parsed_script.json"  # Output JSON file
     
 parsed_data = parse_script(pdf_path)
-save_as_json(parsed_data, output_json)
+
+print(parsed_data)
+
+#save_as_json(parsed_data, output_json)
 print(f"Script has been parsed and saved to {output_json}")

@@ -3,3 +3,5 @@ api.py
 movies/
 output/
 __pycache__/
+scripts/
+pdf_parser.py
