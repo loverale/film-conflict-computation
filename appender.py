@@ -6,6 +6,7 @@ Append timestamps from the timestamp file to the corresponding lines in the scri
 :param output_file: Path to the output file with timestamps appended.
 """
 def append_timestamps_to_script(timestamp_file, script_file, output_file):
+    print("Appending Files Together")
 
     with open(timestamp_file, 'r') as ts_file:
         timestamps = ts_file.readlines()
@@ -35,13 +36,3 @@ def append_timestamps_to_script(timestamp_file, script_file, output_file):
     # Write output to file
     with open(output_file, 'w') as out_file:
         out_file.writelines(output_lines)
-
-# File paths (adjust paths if necessary)
-parsed_script_path = './output/parsed_script.txt'
-timestamps_path = './output/social_trans.txt'
-output_script_path = './output/final.txt'
-
-# Run the function
-append_timestamps_to_script(timestamps_path, parsed_script_path, output_script_path)
-
-print(f"Timestamps have been appended. Check the output at {output_script_path}.")

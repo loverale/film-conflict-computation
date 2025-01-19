@@ -1,7 +1,7 @@
 .DS_Store
 api.py
 movies/
-output/
 __pycache__/
 scripts/
-pdf_parser.py
+old_outputs/
+temp_outputs/

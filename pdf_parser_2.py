@@ -70,8 +70,8 @@ def parse_script(text, output_path):
             output_file.write(parsed_line + '\n')
 
 # does the thing
-pdf_path = './scripts/social.pdf'  # Path to the uploaded PDF file
-output_path = './output/parsed_script.txt'
+pdf_path = './scripts/knives.pdf'  # Path to the uploaded PDF file
+output_path = './output/parsed_knives.txt'
 
 # Extract text from PDF and parse the script
 text = extract_text_from_pdf(pdf_path)
