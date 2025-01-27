@@ -21,3 +21,5 @@ def basic_transcription(audio_path, file_path):
             calc_start = "%.2f" % (start_time_transcript) # round to two decimal
             calc_end = "%.2f" % (end_time_transcript)
             f.write(f"{calc_start} - {calc_end}: Speaker {utterance.speaker}: {utterance.text}\n")
+
+basic_transcription("./movies/truman_eng.flac", "./assembly_truman.txt")

@@ -3,5 +3,6 @@ api.py
 movies/
 __pycache__/
 scripts/
-old_outputs/
-temp_outputs/
+subtitles/
+old_codebase/
+hidden_output/
