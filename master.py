@@ -1,7 +1,5 @@
 from transcriber import * #this is lazy of me and a bad practice, refactor to be more explicit
-from appender import *
-from corrected_pdf_parser_v3 import * #todo:/ rename
-from pdf_v4 import *
+from old_codebase.appender import *
 
 # this script was run on 5 movies, to save time changing the names individually for this multi-temp output solution, this is the easiest way to change what movie is ran
 movie = "fargo"
