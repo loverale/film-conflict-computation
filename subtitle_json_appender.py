@@ -3,6 +3,7 @@ import json
 from fuzzywuzzy import fuzz
 import csv
 
+# ASSUMES .SRT SUBTITLE FILE TYPE
 def parse_subtitles(file_path):
     subtitles = []
     with open(file_path, 'r') as file:
