@@ -3,7 +3,7 @@ import os
 import json
 from api import * # all file paths
 
-def fargo_script_cleaning():
+def fargo_fargo_script_cleaning():
     with open("fargo_transcript.txt", "r") as file:
         text_data = file.read()
 
@@ -55,7 +55,7 @@ def fargo_script_cleaning():
     with open(output_file_path, "w") as file:
         file.write(text_data)
 
-def fargo_json_conversion():
+def fargo_text_to_json():
     with open("fargo_extracted_cleaned.txt", "r") as file:
         lines = file.readlines()
 

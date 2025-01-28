@@ -1,0 +1,558 @@
+start_time	end_time	character_name	dialogue	location
+00:03:44,210	00:03:46,120	JERRY	Jerry Lundegaard.	JERRY'S CUBICLE
+00:03:47,430	00:03:49,830	YOUNGER_MAN	You're Jerry Lundegaard?	INSIDE
+00:03:47,430	00:03:49,830	JERRY	Yah. But it's not a whole pay- in-advance deal. I give you a brand-new vehicle in advance and -	INSIDE
+00:03:49,930	00:03:50,890	JERRY	Yah, Shep Proudfoot said -	INSIDE
+00:03:51,030	00:03:54,390	YOUNGER_MAN	Shep said you'd be here at 7:30. What gives, man?	INSIDE
+00:03:54,470	00:03:56,130	JERRY	Shep said 8:30.	INSIDE
+00:03:56,230	00:03:59,140	YOUNGER_MAN	We been sitting here an hour. I've peed three times already.	INSIDE
+00:03:59,230	00:04:04,760	JERRY	I'm sure sorry. I - Shep told me 8:30. It was a mix-up, I guess.	INSIDE
+00:04:04,760	00:04:04,770	YOUNGER_MAN	Ya got the car?	INSIDE
+00:04:04,760	00:04:04,770	ANDERSON	You bet.	HOTEL LOBBY
+00:04:04,770	00:04:07,980	JERRY	Yah, you bet. It's in the lot there. Brand-new burnt umber Ciera.	INSIDE
+00:04:08,070	00:04:12,280	YOUNGER_MAN	Yeah, okay. Well, siddown then. I'm Carl Showalter and this is my associate Gaear Grimsrud.	INSIDE
+00:04:16,700	00:04:18,160	JERRY	Yah.	INSIDE
+00:04:18,250	00:04:22,490	JERRY	Yah, how ya doin'. So, uh, we all set on this thing, then?	INSIDE
+00:04:22,580	00:04:28,090	JERRY	Yah, no, I'm sure you are. Shep vouched for you and all. I got every confidence in you fellas.	INSIDE
+00:04:33,350	00:04:36,180	JERRY	... So I guess that's it, then. Here's the keys -	INSIDE
+00:04:36,260	00:04:37,970	CARL	No, that's not it, Jerry.	INSIDE
+00:04:38,060	00:04:41,390	JERRY	Huh?	INSIDE
+00:04:41,480	00:04:47,400	MARGE	Yah, but -	JERRY LUNDEGAARD'S OFFICE
+00:04:47,480	00:04:50,350	JERRY	Yah, but the deal was, the car first, see, then the forty thousand, like as if it was the ransom. I thought Shep told you -	INSIDE
+00:04:47,480	00:04:50,350	CARL	Shep didn't tell us much, Jerry.	INSIDE
+00:04:50,450	00:04:53,650	WADE	Well -	EMBERS FAMILY RESTAURANT
+00:04:53,740	00:04:56,660	JERRY	Yah, well, that was a mix-up, then.	INSIDE
+00:04:53,740	00:04:56,660	SHEP	Call 'em up.	GUSTAFSON OLD GARAGE
+00:04:53,740	00:04:56,660	CARL	Yeah.	INT. CAR
+00:04:56,740	00:05:00,440	CLERK	Okay, Mr. Anderson, and you're still planning on staying with us just the night, then?	HOTEL LOBBY
+00:05:04,880	00:05:07,540	CARL	I'm not gonna debate you, Jerry.	INSIDE
+00:05:07,630	00:05:09,700	CARL	I'm not gonna sit here and debate. I will say this though: what Shep told us didn't make a whole lot of sense.	INSIDE
+00:05:13,550	00:05:16,470	JERRY	Oh, no, it's real sound. It's all worked out.	INSIDE
+00:05:17,300	00:05:20,720	CARL	You want your own wife kidnapped?	INSIDE
+00:05:35,110	00:05:38,560	JERRY	Okay, it's - see, it's not me payin' the ransom. The thing is, my wife, she's wealthy - her dad, he's real well off. Now, I'm in a bit of trouble -	INSIDE
+00:05:43,120	00:05:46,290	CARL	What kind of trouble are you in, Jerry?	INSIDE
+00:05:51,590	00:05:55,420	CARL	So why don't you just ask him for the money?	INSIDE
+00:05:55,510	00:05:58,340	GRIMSRUD	Or your fucking wife, you know.	INSIDE
+00:05:55,510	00:05:58,340	CARL	Or your fucking wife, Jerry.	INSIDE
+00:05:58,430	00:06:00,300	JERRY	Well ... yah.	JERRY'S CUBICLE
+00:06:04,350	00:06:07,100	JERRY	Well, it's all just part of this - they don't know I need it, see. Okay, so there's that. And even if they did, I wouldn't get it. So there's that on top, then. See, these're personal matters.	INSIDE
+00:06:11,020	00:06:13,600	CARL	Personal matters.	INSIDE
+00:06:16,820	00:06:22,660	CARL	Okay, Jerry. You're tasking us to perform this mission, but you, you won't, uh, you won't - aw, fuck it, let's take a look at that Ciera.	INSIDE
+00:06:36,880	00:06:40,460	MARGE	Hiya, hon.	BRAINERD POLICE HEADQUARTERS
+00:06:41,260	00:06:43,750	VOICE	Thank you, hon. How's Fargo?	MINNEAPOLIS SUBURBAN HOUSE
+00:06:44,810	00:06:47,090	VOICE	Dad's here.	MINNEAPOLIS SUBURBAN HOUSE
+00:06:52,060	00:06:54,300	JERRY	How ya doin', Wade?	DEN
+00:06:54,400	00:06:56,470	JERRY	Whatcha watchin' there?	DEN
+00:06:54,400	00:06:56,470	JERRY	So you're goin' to the Gophers on Sunday?	NEARBY CUBICLE
+00:06:56,570	00:06:58,850	JERRY	... Who they playin'?	DEN
+00:07:05,700	00:07:10,200	JERRY	Is he stayin' for supper, then?	KITCHEN
+00:07:05,700	00:07:10,200	WIFE	Yah, I think so... Dad, are you stayin' for supper?	KITCHEN
+00:07:10,290	00:07:12,160	CARL	What?	INT. CAR
+00:07:12,250	00:07:14,120	HOOKER	Yeah. Yeah. Oh, yeah.	MOTEL ROOM
+00:07:20,590	00:07:22,250	SCOTTY	May I be excused?	DINING ROOM
+00:07:22,340	00:07:24,710	NORM	You shouldn't be on your feet too much, you got weight you're not used too. How's the food down there?	INT. HUT
+00:07:22,340	00:07:24,710	SCOTTY	Uh-huh. Goin' out.	DINING ROOM
+00:07:24,800	00:07:27,800	WIFE	Where are you going?	DINING ROOM
+00:07:24,800	00:07:27,800	SCOTTY	Just out. Just McDonald's.	DINING ROOM
+00:07:27,890	00:07:29,960	JERRY	Back at 9:30.	DINING ROOM
+00:07:30,430	00:07:34,760	WADE	He just ate. And he didn't finish. He's going to McDonald's instead of finishing here?	DINING ROOM
+00:07:35,060	00:07:38,600	WIFE	He sees his friends there. It's okay.	DINING ROOM
+00:07:38,690	00:07:42,390	WADE	It's okay? McDonald's? What do you think they do there? They don't drink milkshakes, I assure you!	DINING ROOM
+00:07:50,490	00:07:54,490	JERRY	Wade, have ya had a chance to think about, uh, that deal I was talkin' about, those forty acres there on Wayzata?	DINING ROOM
+00:07:54,580	00:07:58,080	WADE	You told me about it.	DINING ROOM
+00:08:04,840	00:08:07,550	JERRY	A lot. It's a limited -	DINING ROOM
+00:08:04,840	00:08:07,550	WADE	I know it's a lot.	DINING ROOM
+00:08:07,640	00:08:12,630	JERRY	I mean a parking lot.	DINING ROOM
+00:08:12,730	00:08:17,770	JERRY	Yah, well, it's a chunk, but -	DINING ROOM
+00:08:17,850	00:08:23,230	WADE	I thought you were gonna show it to Stan Grossman. He passes on this stuff before it gets kicked up to me.	DINING ROOM
+00:08:23,320	00:08:26,020	JERRY	Well, you know Stan'll say no dice. That's why you pay him. I'm asking you here, Wade. This could work out real good for me and Jean and Scotty -	DINING ROOM
+00:08:32,740	00:08:35,070	WADE	Jean and Scotty never have to worry.	DINING ROOM
+00:08:50,010	00:08:52,470	GRIMSRUD	Where is Pancakes Hause?	INT. CAR
+00:08:53,390	00:08:56,510	GRIMSRUD	We stop at Pancakes Hause.	INT. CAR
+00:08:57,810	00:09:00,050	CARL	What're you, nuts? We had pancakes for breakfast. I gotta go somewhere I can get a shot and a beer - and a steak maybe. Not more fuckin' pancakes. Come on.	INT. CAR
+00:09:14,740	00:09:16,870	CARL	... Come on, man. Okay, here's an idea. We'll stop outside of Brainerd. I know a place there we can get laid. Wuddya think?	INT. CAR
+00:09:20,870	00:09:23,660	GRIMSRUD	I'm fuckin' hungry now, you know.	INT. CAR
+00:09:20,870	00:09:23,660	CARL	Yeah, yeah, Jesus - I'm sayin', we'll stop for pancakes, then we'll get laid. Wuddya think?	INT. CAR
+00:09:41,810	00:09:44,760	CUSTOMER	We sat here right in this room and went over this and over this!	GUSTAFSON OLDS GARAGE
+00:09:44,860	00:09:48,930	JERRY	Yah, but that TruCoat -	GUSTAFSON OLDS GARAGE
+00:09:44,860	00:09:48,930	CUSTOMER	I sat right here and said I didn't want no TruCoat!	GUSTAFSON OLDS GARAGE
+00:09:49,030	00:09:54,730	JERRY	Yah, but I'm sayin', that TruCoat, you don't get it and you get oxidization problems. It'll cost you a heck of lot more'n five hunnert -	GUSTAFSON OLDS GARAGE
+00:09:59,120	00:10:02,290	JERRY	Yah, but this TruCoat -	GUSTAFSON OLDS GARAGE
+00:10:07,920	00:10:11,700	GRIMSRUD	I did.	CAR
+00:10:11,800	00:10:14,550	CUSTOMER	You called me twenty minutes ago and said you had it! Ready to make delivery, ya says! Come on down and get it! And here ya are and you're wastin' my time and you're wastin' my wife's time and I'm payin' nineteen-five for this vehicle here!	GUSTAFSON OLDS GARAGE
+00:10:22,560	00:10:24,600	JERRY	Yah, well, they exist all right.	JERRY'S CUBICLE
+00:10:24,690	00:10:26,810	JERRY	Well, okay, I'll talk to my boss...	GUSTAFSON OLDS GARAGE
+00:10:29,730	00:10:33,810	JERRY	... See, they install that TruCoat at the factory, there's nothin' we can do, but I'll talk to my boss.	GUSTAFSON OLDS GARAGE
+00:10:36,700	00:10:39,100	CUSTOMER	These guys here - these guys! It's always the same! It's always more! He's a liar!	GUSTAFSON OLDS GARAGE
+00:10:47,170	00:10:50,200	MARGE	Oh, you bet, yah.	INT. STRIPPER CLUB
+00:10:50,290	00:10:52,530	JERRY	You wouldn't have an extra ticket there?	NEARBY CUBICLE
+00:10:53,630	00:10:55,750	JERRY	No kiddin'?	LUNDEGAARD KITCHEN
+00:10:56,970	00:10:58,840	WADE	Well... Why don't we...	EMBERS FAMILY RESTAURANT
+00:11:01,010	00:11:05,420	JERRY	Well, he never done this before, but seein' as it's special circumstances and all, he says I can knock one hunnert off that TruCoat.	JERRY'S CUBICLE
+00:11:10,150	00:11:12,050	CUSTOMER	One hundred! You lied to me, Mr. Lundegaard. You're a bald-faced liar!	JERRY'S CUBICLE
+00:11:16,490	00:11:18,230	WIFE	Bucky, please!	JERRY'S CUBICLE
+00:11:18,320	00:11:20,730	CUSTOMER	... A fucking liar -	JERRY'S CUBICLE
+00:11:23,540	00:11:27,530	CUSTOMER	Oh, for Christ's sake, where's my goddamn checkbook. Let's get this over with.	JERRY'S CUBICLE
+00:12:10,580	00:12:13,040	JEAN	I'm talkin' about your potential.	LUNDEGAARD KITCHEN
+00:12:14,670	00:12:16,990	JEAN	You're not a C student.	LUNDEGAARD KITCHEN
+00:12:18,500	00:12:20,960	JEAN	And yet you're gettin' C grades. It's this disparity there that concerns your dad and me.	LUNDEGAARD KITCHEN
+00:12:25,760	00:12:28,000	JEAN	You know what a disparity is?	LUNDEGAARD KITCHEN
+00:12:25,760	00:12:28,000	SCOTT	(testily) Yeah!	LUNDEGAARD KITCHEN
+00:12:28,100	00:12:32,310	JEAN	Okay. Well, that's why we don't want ya goin' out fer hockey.	LUNDEGAARD KITCHEN
+00:12:33,390	00:12:36,180	SCOTT	Oh, man!	LUNDEGAARD KITCHEN
+00:12:37,520	00:12:38,520	JEAN	Hold on.	LUNDEGAARD KITCHEN
+00:12:38,610	00:12:40,930	SCOTT	... What's the big deal? It's an hour -	LUNDEGAARD KITCHEN
+00:12:38,610	00:12:40,930	JEAN	... Hello?	LUNDEGAARD KITCHEN
+00:12:41,030	00:12:42,980	PHONE_VOICE	Yah, hiya, hon.	LUNDEGAARD KITCHEN
+00:12:41,030	00:12:42,980	JEAN	Oh, hiya, Dad.	LUNDEGAARD KITCHEN
+00:12:43,070	00:12:46,600	WADE	Jerry around?	LUNDEGAARD KITCHEN
+00:12:46,700	00:12:50,280	JEAN	It's Dad.	LUNDEGAARD KITCHEN
+00:12:50,370	00:12:52,910	SCOTT	Look, Dad, there is no fucking way -	LUNDEGAARD KITCHEN
+00:12:53,000	00:12:55,870	JERRY	Say, let's watch the language -	LUNDEGAARD KITCHEN
+00:12:55,960	00:12:58,330	MARGE	How ya doin'?	THE DOWNTOWN RADISSON HOTEL
+00:12:55,960	00:12:58,330	WADE	What's goin' on there?	LUNDEGAARD KITCHEN
+00:12:58,420	00:13:00,790	JERRY	Oh, nothing, Wade. How ya doin' there?	LUNDEGAARD KITCHEN
+00:13:00,880	00:13:04,500	WADE	Stan Grossman looked at your proposal. Says it's pretty sweet.	LUNDEGAARD KITCHEN
+00:13:04,590	00:13:06,880	WADE	We might be innarested.	LUNDEGAARD KITCHEN
+00:13:12,520	00:13:17,430	WADE	Come by at 2:30 and we'll talk about it. If your numbers are right, Stan says its pretty sweet. Stan Grossman.	LUNDEGAARD KITCHEN
+00:13:19,480	00:13:21,560	WADE	2:30.	LUNDEGAARD KITCHEN
+00:13:36,290	00:13:38,240	JERRY	Say, Shep, how ya doin' there?	GUSTAFSON OLD GARAGE
+00:13:38,330	00:13:42,110	JERRY	Say, ya know those two fellas ya put me in touch with, up there in Fargo?	GUSTAFSON OLD GARAGE
+00:13:42,210	00:13:45,990	SHEP	Put you in touch with Grimsrud.	GUSTAFSON OLD GARAGE
+00:13:46,090	00:13:48,210	SHEP	Well, I don't vouch for him.	GUSTAFSON OLD GARAGE
+00:13:48,300	00:13:51,830	SHEP	I vouch for Grimsrud. Who's his buddy?	GUSTAFSON OLD GARAGE
+00:13:48,300	00:13:51,830	JERRY	Carl somethin'?	GUSTAFSON OLD GARAGE
+00:13:51,930	00:13:54,300	SHEP	Never heard of him. Don't vouch for him.	GUSTAFSON OLD GARAGE
+00:13:54,390	00:13:58,170	JERRY	Well, that's okay, he's a buddy of the guy ya vouched for, so I'm not worryin'. I just, I was wonderin', see, I gotta get in touch with 'em for, I might not need it anymore, sumpn's happenin', see -	GUSTAFSON OLD GARAGE
+00:14:05,820	00:14:09,940	JERRY	Yah, well, see, I did that, and I haven't been able to get 'em, so I thought you maybe'd know an alternate number or what have ya.	GUSTAFSON OLD GARAGE
+00:14:13,320	00:14:15,320	SHEP	Nope.	GUSTAFSON OLD GARAGE
+00:14:15,410	00:14:17,480	JERRY	Okay, well, real good, then.	GUSTAFSON OLD GARAGE
+00:14:50,230	00:14:54,150	CARL	... Look at that. Twin Cities. IDS Building, the big glass one. Tallest skyscraper in the Midwest. After the Sears, uh, Chicago... You never been to Minneapolis?	CAR
+00:15:08,340	00:15:11,420	CARL	... Would it kill you to say something?	CAR
+00:15:11,510	00:15:14,000	CARL	"""No."" First thing you've said in the last four hours. That's a, that's a fountain of conversation, man. That's a geyser. I mean, whoa, daddy, stand back, man. Shit, I'm sittin' here driving, man, doin' all the driving, whole fuckin' way from Brainerd, drivin', tryin' to, you know, tryin' to chat, keep our spirits up, fight the boredom of the road, and you can't say one fucking thing just in the way of conversation."	CAR
+00:15:46,660	00:15:49,280	CARL	... Well, fuck it, I don't have to talk either, man. See how you like it...	CAR
+00:16:04,220	00:16:06,300	CARL	... Total silence...	CAR
+00:16:08,520	00:16:12,730	MARGE	Mr. Lundegaard?	JERRY'S OFFICE
+00:16:12,810	00:16:16,980	JERRY	Yah, real good. How you doin'?	JERRY'S CUBICLE
+00:16:12,810	00:16:16,980	VOICE	Pretty good, Mr. Lundegaard. You're damned hard to get on the phone.	JERRY'S CUBICLE
+00:16:17,070	00:16:20,350	JERRY	Yah, it's pretty darned busy here, but that's the way we like it.	JERRY'S CUBICLE
+00:16:20,450	00:16:25,490	VOICE	That's for sure. Now, I just need, on these last, these financing documents you sent us, I can't read the serial numbers of the vehicles on here, so I -	JERRY'S CUBICLE
+00:16:36,750	00:16:43,340	VOICE	Yeah, but the vehicles you were borrowing on, I just can't read the serial numbers on your applicaton. Maybe if you could just read them to me -	JERRY'S CUBICLE
+00:16:47,310	00:16:51,470	VOICE	Yeah, but we have an audit here, I just have to know that these vehicles you're financing with this money, that they really exist.	JERRY'S CUBICLE
+00:16:55,610	00:16:59,020	VOICE	I'm sure they do - ha ha! But I can't read their serial numbers here. So if you could read me -	JERRY'S CUBICLE
+00:17:05,620	00:17:09,230	VOICE	No, fax is no good, that's what I have and I can't read the darn thing -	JERRY'S CUBICLE
+00:17:09,330	00:17:12,250	JERRY	Yah, okay, I'll have my girl send you over a copy, then.	JERRY'S CUBICLE
+00:17:20,420	00:17:23,670	VOICE	Three hundred and twenty thousand dollars. See, I gotta correlate that money with the cars it's being lent on.	JERRY'S CUBICLE
+00:17:23,760	00:17:26,760	MARGE	No, no.	INT. HUT
+00:17:26,840	00:17:29,930	MARGE	Oh, fine.	INT. HUT
+00:17:30,010	00:17:32,090	MARGE	... Okay. There in a jif... Real good, then.	AN OIL PAINTING
+00:17:50,990	00:17:56,030	MARGE	It's terrific!	A BEDROOM
+00:18:12,930	00:18:15,880	COP_ONE	Dale!	MOTEL ROOM DOORWAY
+00:18:22,360	00:18:26,060	CLERK	And how are you today, sir?	HOTEL LOBBY
+00:18:41,500	00:18:43,370	GRIMSRUD	Unguent.	KITCHEN
+00:20:27,600	00:20:31,680	STAN	Good to see ya again, Jerry. If these numbers are right, this looks pretty sweet.	INT. WADE'S OFFICE
+00:20:34,530	00:20:38,230	WADE	This is do-able.	INT. WADE'S OFFICE
+00:20:38,320	00:20:41,940	STAN	Congratulations, Jerry.	INT. WADE'S OFFICE
+00:20:38,320	00:20:41,940	JERRY	Yah, thanks, Stan, it's a pretty -	INT. WADE'S OFFICE
+00:20:42,030	00:20:44,990	WADE	What kind of finder's fee were you looking for?	INT. WADE'S OFFICE
+00:20:47,040	00:20:52,380	STAN	The financials are pretty thorough, so the only thing we don't know is your fee.	INT. WADE'S OFFICE
+00:20:52,460	00:20:56,460	JERRY	... My fee? Wade, what the heck're you talkin' about?	INT. WADE'S OFFICE
+00:20:58,760	00:21:01,510	WADE	We're good to loan in.	INT. WADE'S OFFICE
+00:21:01,590	00:21:04,880	WADE	But we never talked about your fee for bringin' it to us.	INT. WADE'S OFFICE
+00:21:04,970	00:21:09,050	JERRY	No, but, Wade, see, I was bringin' you this deal for you to loan me the money to put in. It's my deal here, see?	INT. WADE'S OFFICE
+00:21:12,900	00:21:15,350	STAN	Jerry - we thought you were bringin' us an investment.	INT. WADE'S OFFICE
+00:21:15,440	00:21:20,190	STAN	You're sayin' - what're you sayin'?	INT. WADE'S OFFICE
+00:21:20,280	00:21:24,530	WADE	You're sayin' that we put in all the money and you collect when it pays off?	INT. WADE'S OFFICE
+00:21:30,370	00:21:34,370	STAN	We're not a bank, Jerry.	INT. WADE'S OFFICE
+00:21:39,840	00:21:41,500	STAN	He's at Norstar.	INT. WADE'S OFFICE
+00:21:39,840	00:21:41,500	WADE	He's at -	INT. WADE'S OFFICE
+00:21:46,050	00:21:47,710	GRIMSRUD	I need ... unguent.	KITCHEN
+00:21:47,810	00:21:52,800	JERRY	No, see, I don't need a finder's fee, I need - finder's fee's, what, ten percent, heck that's not gonna do it for me. I need the principal.	INT. WADE'S OFFICE
+00:21:52,890	00:21:57,560	WADE	What the heck were you thinkin'? Heck, if I'm only gettin' bank interest, I'd look for complete security. Heck, FDIC. I don't see nothin' like that here.	INT. WADE'S OFFICE
+00:22:01,650	00:22:05,400	SCOTT	Yeah, but -	SCOTTY'S BEDROOM
+00:22:07,490	00:22:10,690	JERRY	Yah, but I - okay, I would, I'd guarantee ya your money back.	INT. WADE'S OFFICE
+00:22:10,790	00:22:14,040	WADE	I'm not talkin' about your damn word, Jerry. Geez, what the heck're you?... Well, look, I don't want to cut you out of the loop, but his here's a good deal. I assume, if you're not innarested, you won't mind if we move on it independently.	INT. WADE'S OFFICE
+00:23:29,490	00:23:31,780	WADE	Dammit!	EMBERS FAMILY RESTAURANT
+00:24:02,100	00:24:03,980	JERRY	Hon? Got the growshries.	MINNEAPOLIS SUBURBAN HOUSE
+00:24:44,060	00:24:47,010	JERRY	Yah, Wade, I - it's Jerry, I.	FOYER
+00:24:47,100	00:24:48,980	JERRY	Yah! I ... those are in the mail.	JERRY'S CUBICLE
+00:26:00,300	00:26:04,800	GRIMSRUD	Shut the fuck up or I'll throw you back in the trunk, you know.	INT. CAR
+00:26:05,260	00:26:08,510	CARL	Geez. That's more'n I've heard you say all week.	INT. CAR
+00:26:15,690	00:26:17,650	CARL	Ah, shit, the tags...	INT. CAR
+00:26:27,370	00:26:31,150	CARL	... It's just the tags. I never put my tags on the car. Don't worry, I'll take care of this.	INT. CAR
+00:27:00,570	00:27:05,770	CARL	... Let's keep still back there, lady, or we're gonna have to, ya know, to shoot ya.	INT. CAR
+00:27:39,440	00:27:41,510	CARL	How can I help you, officer?	INT. CAR
+00:27:51,330	00:27:55,990	TROOPER	This is a new car, then, sir?	INT. CAR
+00:27:51,330	00:27:55,990	CARL	It certainly is, officer. Still got that smell!	INT. CAR
+00:27:57,160	00:27:59,700	TROOPER	You're required to display temporary tags, either in the plate area or taped inside the back window.	INT. CAR
+00:28:02,590	00:28:05,950	CARL	Certainly.	INT. CAR
+00:28:02,590	00:28:05,950	TROOPER	Can I see your license and registration please?	INT. CAR
+00:28:10,260	00:28:14,840	CARL	... I was gonna tape up the temporary tag, ya know, to be in full compliance, but it, uh, it, uh ... must a slipped my mind...	INT. CAR
+00:28:21,600	00:28:27,020	CARL	... So maybe the best thing would be to take care of that, right here in Brainerd.	INT. CAR
+00:28:27,110	00:28:30,980	TROOPER	What's this, sir?	INT. CAR
+00:28:27,110	00:28:30,980	CARL	That's my license and regis- tration. I wanna be in compliance.	INT. CAR
+00:28:36,790	00:28:41,160	CARL	... I was just thinking I could take care of it right here. In Brainerd.	INT. CAR
+00:28:46,840	00:28:49,870	TROOPER	Put that back in your pocket, please.	INT. CAR
+00:28:49,960	00:28:52,750	TROOPER	... And step out of the car, please, sir.	INT. CAR
+00:29:35,930	00:29:37,800	CARL	(softly) Whoa... Whoa, Daddy.	INT. CAR
+00:29:42,890	00:29:44,970	GRIMSRUD	You'll take care of it. Boy, you are smooth smooth, you know.	INT. CAR
+00:29:56,860	00:29:59,070	GRIMSRUD	Clear him off the road.	INT. CAR
+00:33:52,720	00:33:54,790	WOMAN	Oh, geez...	AN OIL PAINTING
+00:34:00,060	00:34:02,130	WOMAN	... Hi, it's Marge...	AN OIL PAINTING
+00:34:03,390	00:34:05,720	MARGE	... Oh, my. Where?... Yah... Oh, geez...	AN OIL PAINTING
+00:34:08,360	00:34:10,430	MARGE	Ah, geez. So... Aw, geez. Here's the second one... It's in the head and the ... hand there, I guess that's a defensive wound. Okay.	BY THE WRECK
+00:34:24,370	00:34:27,160	MARGE	... You can sleep, hon. It's early yet.	AN OIL PAINTING
+00:34:32,880	00:34:34,960	MARGE	That's okay, hon. I gotta run.	AN OIL PAINTING
+00:34:35,050	00:34:37,340	VOICE	Marge?	HOTEL BAR
+00:34:52,610	00:34:54,680	MARGE	Aw, Norm.	AN OIL PAINTING
+00:35:01,280	00:35:03,900	MARGE	Thanks, hon. Time to shove off.	PLATE
+00:35:03,990	00:35:06,280	NORM	I love you, Margie.	A BEDROOM
+00:35:03,990	00:35:06,280	MARGE	Love ya, hon.	PLATE
+00:35:39,690	00:35:41,770	NORM	(off) Yah?	FRONT DOOR
+00:35:41,860	00:35:44,270	MARGE	Prowler needs a jump.	FRONT DOOR
+00:36:03,300	00:36:05,540	MARGE	Hiya, Lou.	HIGHWAY
+00:36:05,640	00:36:08,510	MARGE	Whatcha got there?	AT A TABLE
+00:36:08,600	00:36:11,350	LOU	Margie. Thought you might need a little warm-up.	HIGHWAY
+00:36:11,440	00:36:13,310	MARGE	Yah, thanks a bunch. So what's the deal, now? Gary says triple homicide?	HIGHWAY
+00:36:19,400	00:36:22,400	MARGE	Where is everybody?	HIGHWAY
+00:36:22,490	00:36:24,770	LOU	Well - it's cold, Margie.	HIGHWAY
+00:36:49,510	00:36:52,850	LOU	Oh, yah?	BY THE STATE TROOPER'S CAR
+00:36:53,930	00:36:56,010	MARGE	... Where's the state trooper?	BY THE WRECK
+00:36:56,100	00:37:00,050	LOU	Back there a good piece. In the ditch next to his prowler.	BY THE WRECK
+00:37:02,110	00:37:07,900	MARGE	Okay, so we got a state trooper pulls someone over, we got a shooting, and these folks drive by, and we got a high-speed pursuit, ends here, and this execution-type deal.	BY THE WRECK
+00:37:15,410	00:37:18,450	MARGE	I'd be very surprised if our suspect was from Brainerd.	BY THE WRECK
+00:37:21,340	00:37:25,750	MARGE	Yah. And I'll tell you what, from his footprints he looks like a big fella -	BY THE WRECK
+00:37:29,680	00:37:32,380	LOU	Ya see something down there, Chief?	BY THE WRECK
+00:37:32,470	00:37:35,510	MARGE	Uh - I just, I think I'm gonna barf.	BY THE WRECK
+00:37:43,070	00:37:45,440	MARGE	I'm fine - it's just morning sickness.	BY THE WRECK
+00:37:47,570	00:37:50,140	MARGE	... Well, that passed.	BY THE WRECK
+00:37:52,740	00:37:54,730	LOU	You had breakfast yet, Margie?	BY THE WRECK
+00:37:54,830	00:37:56,700	MARGE	Oh, yah. Norm made some eggs.	BY THE WRECK
+00:38:02,500	00:38:04,820	LOU	Yah? Well, what now, d'ya think?	BY THE WRECK
+00:38:04,920	00:38:06,880	MARGE	Let's go take a look at that trooper.	BY THE WRECK
+00:38:17,600	00:38:20,770	MARGE	For Pete's sake.	DOWN IN THE DITCH
+00:38:17,600	00:38:20,770	LOU	How's it look, Marge?	DOWN IN THE DITCH
+00:38:20,850	00:38:26,770	MARGE	Well, he's got his gun on his hip there, and he looks like a nice enough guy. It's a real shame.	DOWN IN THE DITCH
+00:38:32,820	00:38:35,910	MARGE	You haven't monkeyed with his car there, have ya?	DOWN IN THE DITCH
+00:38:32,820	00:38:35,910	LOU	No way.	DOWN IN THE DITCH
+00:38:35,990	00:38:40,320	MARGE	Somebody shut his lights. I guess the little guy sat in there, waitin' for his buddy t'come back.	DOWN IN THE DITCH
+00:38:40,410	00:38:43,120	MARGE	Heck, yah. Ya think, is Dave open yet?	DOWN IN THE DITCH
+00:38:47,040	00:38:48,920	LOU	You don't think he's mixed up in -	DOWN IN THE DITCH
+00:38:49,000	00:38:52,090	MARGE	No, no, I just wanna get Norm some night crawlers.	DOWN IN THE DITCH
+00:38:54,930	00:38:57,930	MARGE	You look in his citation book?	INT. PROWLER
+00:38:58,010	00:39:04,470	LOU	... Last vehicle he wrote in was a tan Ciera at 2:18 a.m. Under the plate number he put DLR - I figure they stopped him or shot him before he could finish fillin' out the tag number.	INT. PROWLER
+00:39:09,520	00:39:12,970	LOU	So I got the state lookin' for a Ciera with a tag startin' DLR. They don't got no match yet.	INT. PROWLER
+00:39:22,250	00:39:27,580	MARGE	Yah, I think that vehicle there probly had dealer plates. DLR?	INT. PROWLER
+00:39:35,380	00:39:39,760	MARGE	Yah. Say, Lou, ya hear the one about the guy who couldn't afford personalized plates, so he went and changed his name to J2L 4685?	INT. PROWLER
+00:39:44,140	00:39:46,430	LOU	Yah, that's a good one.	INT. PROWLER
+00:39:53,440	00:39:57,270	WADE	All's I know is, ya got a problem, ya call a professional!	EMBERS FAMILY RESTAURANT
+00:39:57,360	00:40:02,900	GRIMSRUD	No.	CAR
+00:40:10,620	00:40:13,330	JERRY	Well, they -	EMBERS FAMILY RESTAURANT
+00:40:10,620	00:40:13,330	WADE	A million dollars is a lot a damn money! And there they are, they got my daughter!	EMBERS FAMILY RESTAURANT
+00:40:13,420	00:40:16,120	JERRY	Yah, but think this thing through here, Wade. Ya give 'em what they want, why wont' they let her go? You gotta listen to me on this one, Wade.	EMBERS FAMILY RESTAURANT
+00:40:22,340	00:40:26,010	WADE	Heck, you don't know! You're just whistlin' Dixie here! I'm sayin', the cops, they can advise us on this! I'm sayin' call a professional!	EMBERS FAMILY RESTAURANT
+00:40:32,520	00:40:35,140	JERRY	No! No cops! That's final! This is my deal here, Wade! Jean is my wife here!	EMBERS FAMILY RESTAURANT
+00:40:35,230	00:40:38,230	VOICE	Yah...	LUNDEGAARD KITCHEN
+00:40:38,320	00:40:41,480	STAN	I gotta tell ya, Wade, I'm leanin' to Jerry's viewpoint here.	EMBERS FAMILY RESTAURANT
+00:40:41,570	00:40:44,570	STAN	We gotta protect Jean. These - we're not holdin' any cards here, Wade, they got all of 'em. So they call the shots.	EMBERS FAMILY RESTAURANT
+00:40:48,410	00:40:50,700	JERRY	You're darned tootin'!	EMBERS FAMILY RESTAURANT
+00:40:48,410	00:40:50,700	WADE	Ah, dammit!	EMBERS FAMILY RESTAURANT
+00:40:50,790	00:40:54,320	STAN	I'm tellin' ya.	EMBERS FAMILY RESTAURANT
+00:40:55,250	00:40:58,120	WADE	... Stan, I'm thinkin' we should offer 'em half a million.	EMBERS FAMILY RESTAURANT
+00:41:01,840	00:41:04,250	STAN	We're not horse-trading here, Wade, we just gotta bite the bullet on this thing.	EMBERS FAMILY RESTAURANT
+00:41:09,180	00:41:11,930	STAN	What's the next step here, Jerry?	EMBERS FAMILY RESTAURANT
+00:41:20,360	00:41:23,530	CASHIER	How was everything today?	THE CASHIER
+00:41:27,910	00:41:33,360	STAN	Okay. We'll get the money together. Don't worry about it, Jerry. Now, d'you want anyone at home, with you, until they call?	PARKING LOT
+00:41:37,130	00:41:41,950	JERRY	No, I -	JERRY LUNDEGAARD'S OFFICE
+00:41:42,050	00:41:45,960	JERRY	Ya know, they said no one listenin' in, they'll be watchin', ya know. Maybe it's all bull, but like you said, Stan, they're callin' the shots.	PARKING LOT
+00:41:51,810	00:41:54,430	JEAN	Scott!	LUNDEGAARD KITCHEN
+00:42:16,370	00:42:18,740	JERRY	... How ya doin' there, Scotty?	SCOTTY'S BEDROOM
+00:42:18,830	00:42:20,950	WIFE	It's okay, Dad.	DINING ROOM
+00:42:21,040	00:42:23,370	SCOTT	Dad! What're they doing? Wuddya think they're doin' with Mom?	SCOTTY'S BEDROOM
+00:42:27,090	00:42:31,920	JERRY	It's okay, Scotty. They're not gonna want to hurt her any. These men, they just want money, see.	SCOTTY'S BEDROOM
+00:42:38,100	00:42:43,060	JERRY	No, no, nothin's goin' wrong here. Grandad and I, we're - we're makin' sure this gets handled right.	SCOTTY'S BEDROOM
+00:42:43,150	00:42:46,850	SCOTT	Dad, I really think we should call the cops.	SCOTTY'S BEDROOM
+00:42:43,150	00:42:46,850	JERRY	No, no. I - I'd, I'd - pay you back the principal, and interest	INT. WADE'S OFFICE
+00:42:46,940	00:42:51,190	JERRY	No! We can't let anyone know about this thing! We gotta play ball with these guys - you ask Stan Grossman, he'll tell ya the same thing!	SCOTTY'S BEDROOM
+00:42:54,410	00:42:58,950	JERRY	We're gonna get Mom back for ya, but we gotta play ball. Ya know, that's the deal. Now if Lorraine calls, or Sylvia, you just say that Mom is in Florida with Pearl and Marty...	SCOTTY'S BEDROOM
+00:43:17,470	00:43:19,760	JERRY	... That's the best we can do here.	SCOTTY'S BEDROOM
+00:44:03,730	00:44:05,520	JERRY	No! They said no cops! They were darned clear on that, Wade! They said you call the cops and we -	EMBERS FAMILY RESTAURANT
+00:44:57,820	00:45:02,070	NORM	Brought ya some lunch, Margie. What're those, night crawlers?	BRAINERD POLICE HEADQUARTERS
+00:45:04,660	00:45:07,860	NORM	Thanks, hon.	BRAINERD POLICE HEADQUARTERS
+00:45:10,670	00:45:13,370	MARGE	You bet. Thanks for lunch. What do we got here, Arbie's?	BRAINERD POLICE HEADQUARTERS
+00:45:13,460	00:45:16,130	MARGE	... How's the paintin' goin'?	BRAINERD POLICE HEADQUARTERS
+00:45:13,460	00:45:16,130	NORM	Pretty good. Found out the Hautmans are entering a painting this year.	BRAINERD POLICE HEADQUARTERS
+00:45:17,170	00:45:22,050	MARGE	Aw, hon, you're better'n them.	BRAINERD POLICE HEADQUARTERS
+00:45:22,140	00:45:26,350	NORM	They're real good.	BRAINERD POLICE HEADQUARTERS
+00:45:22,140	00:45:26,350	MARGE	They're good, Norm, but you're better'n them.	BRAINERD POLICE HEADQUARTERS
+00:45:31,230	00:45:33,300	MARGE	Ah, ya got Arbie's all o'er me.	BRAINERD POLICE HEADQUARTERS
+00:45:35,860	00:45:39,470	NORM	Not too bad. You know.	BRAINERD POLICE HEADQUARTERS
+00:45:39,570	00:45:43,860	MARGE	How we doin' on that vehicle?	BRAINERD POLICE HEADQUARTERS
+00:45:39,570	00:45:43,860	LOU	No motels registered any tan Ciera last night. But the night before, two men checked into the Blue Ox registering a Ciera and leavin' the tag space blank.	BRAINERD POLICE HEADQUARTERS
+00:45:50,620	00:45:52,830	MARGE	Geez, that's a good lead. The Blue Ox, that's that trucker's joint out there on I-35?	BRAINERD POLICE HEADQUARTERS
+00:45:56,500	00:45:59,870	LOU	Yah. Owner was on the desk then, said these two guys had company.	BRAINERD POLICE HEADQUARTERS
+00:46:06,510	00:46:10,720	MARGE	Norm?	RADISSON
+00:46:10,810	00:46:13,100	MARGE	Yah, that's me.	HIGH SHOT IN MARGE'S BEDROOM
+00:46:13,180	00:46:15,590	DETECTIVE_SIBERT	Yah, he -	POLICE OFFICER
+00:46:15,690	00:46:18,090	MARGE	Where you girls from?	INT. STRIPPER CLUB
+00:46:15,690	00:46:18,090	HOOKER_ONE	Chaska.	INT. STRIPPER CLUB
+00:46:18,190	00:46:22,930	GARY	White Bear Lake?	OUTSIDE
+00:46:23,570	00:46:27,270	MARGE	Okay, I want you to tell me what these fellas looked like.	INT. STRIPPER CLUB
+00:46:27,360	00:46:30,400	HOOKER_ONE	Well, the little guy, he was kinda funny-looking.	INT. STRIPPER CLUB
+00:46:27,360	00:46:30,400	MARGE	In what way?	INT. STRIPPER CLUB
+00:46:30,490	00:46:34,440	MARGE	Can you be any more specific?	INT. STRIPPER CLUB
+00:46:34,960	00:46:37,910	HOOKER_ONE	I couldn't really say. He wasn't circumcised.	INT. STRIPPER CLUB
+00:46:39,170	00:46:43,250	MARGE	Was he funny-looking apart from that?	INT. STRIPPER CLUB
+00:46:44,090	00:46:47,750	MARGE	So you were having sex with the little fella, then?	INT. STRIPPER CLUB
+00:46:49,550	00:46:52,260	MARGE	Is there anything else you can tell me about him?	INT. STRIPPER CLUB
+00:46:52,350	00:46:56,560	HOOKER_ONE	No. Like I say, he was funny-looking. More'n most people even.	INT. STRIPPER CLUB
+00:46:56,640	00:46:59,100	MARGE	And what about the other fella?	INT. STRIPPER CLUB
+00:46:59,190	00:47:01,760	HOOKER_TWO	He was a little older. Looked like the Marlboro man.	INT. STRIPPER CLUB
+00:47:06,860	00:47:10,690	HOOKER_TWO	A subconscious-type thing.	INT. STRIPPER CLUB
+00:47:06,860	00:47:10,690	MARGE	Yah, that can happen.	INT. STRIPPER CLUB
+00:47:10,780	00:47:13,620	HOOKER_ONE	They said they were goin' to the Twin Cities?	INT. STRIPPER CLUB
+00:47:58,120	00:47:59,360	SHEP	Fuck out of my house!	A DIRTY BEDROOM
+00:48:34,740	00:48:36,980	MARGE	... Well, I'm turnin' in, Norm.	BACK TO THE TELEVISION SET
+00:48:37,070	00:48:39,150	NORM	... Oh, yah?	BACK TO THE TELEVISION SET
+00:48:57,680	00:49:00,960	VOICE	Yah, is this Marge?	HIGH SHOT IN MARGE'S BEDROOM
+00:49:01,060	00:49:03,550	VOICE	Margie Olmstead?	HIGH SHOT IN MARGE'S BEDROOM
+00:49:07,190	00:49:09,390	VOICE	This is Mike Yanagita. Ya know	HIGH SHOT IN MARGE'S BEDROOM
+00:49:09,480	00:49:11,970	MARGE	Mike!	HOTEL BAR
+00:49:16,320	00:49:17,980	JERRY	Yah!	EMBERS FAMILY RESTAURANT
+00:49:18,070	00:49:20,780	MARGE	... Well, yah. Who's this?	HIGH SHOT IN MARGE'S BEDROOM
+00:49:24,040	00:49:27,820	MARGE	Yah, yah, course I remember. How are ya? What time is it?	HIGH SHOT IN MARGE'S BEDROOM
+00:49:24,040	00:49:27,820	MIKE	Oh, geez. It's quarter to eleven. I hope I dint wake you.	HIGH SHOT IN MARGE'S BEDROOM
+00:49:31,880	00:49:34,330	MIKE	Yah, I'm down in the Twin Cities and I was just watching on TV about these shootings up in Brainderd, and I saw you on the news there.	HIGH SHOT IN MARGE'S BEDROOM
+00:49:45,890	00:49:47,550	MIKE	Well, how the heck are ya?	HIGH SHOT IN MARGE'S BEDROOM
+00:49:53,190	00:49:56,110	MIKE	Oh, pretty good.	HIGH SHOT IN MARGE'S BEDROOM
+00:49:57,320	00:50:01,450	MARGE	Heck, it's been such a long time, Mike. It's great to hear from ya.	HIGH SHOT IN MARGE'S BEDROOM
+00:50:22,340	00:50:26,470	JERRY	Yah, ya got yer, this loaded here, this has yer independent, uh, yer slipped differential, uh, yer rack- and-pinion steering, yer alarm and radar, and I can give it to ya with a heck of a sealant, this TruCoat stuff, it'll keep the salt off -	GUSTAFSON OLDS GARAGE
+00:50:22,340	00:50:26,470	CUSTOMER	Yah, I don't need no sealant though.	GUSTAFSON OLDS GARAGE
+00:50:26,550	00:50:28,430	JERRY	Yah, you don't need that. Now were you thinking of financing here? You oughta be aware a this GMAC plan they have now, it's really super -	GUSTAFSON OLDS GARAGE
+00:50:43,650	00:50:47,190	VOICE	All right, Jerry, you got this phone to yourself?	JERRY'S CUBICLE
+00:50:47,280	00:50:49,400	VOICE	Know who this is?	JERRY'S CUBICLE
+00:50:49,490	00:50:53,330	JERRY	Well, yah, I got an idea. How's that Ciera workin' out for ya?	JERRY'S CUBICLE
+00:50:53,410	00:50:55,740	VOICE	Circumstances have changed, Jerry.	JERRY'S CUBICLE
+00:50:55,830	00:50:58,670	JERRY	Well, what do ya mean?	JERRY'S CUBICLE
+00:50:58,750	00:51:03,410	VOICE	Things have changed. Circumstances, Jerry. Beyond the, uh ... acts of God, force majeure...	JERRY'S CUBICLE
+00:51:03,510	00:51:05,800	CARL	... Who's Jean?	JERRY'S CUBICLE
+00:51:07,800	00:51:10,590	JERRY	My wife! What the - how's -	JERRY'S CUBICLE
+00:51:10,680	00:51:14,260	CARL	Three people. In Brainerd.	JERRY'S CUBICLE
+00:51:14,350	00:51:17,300	WOMAN	... What're you talking about?	CARLTON CELEBRITY ROOM
+00:51:17,400	00:51:20,270	CARL	Blood has been shed, Jerry.	JERRY'S CUBICLE
+00:51:20,360	00:51:23,480	JERRY	What the heck d'ya mean?	JERRY'S CUBICLE
+00:51:20,360	00:51:23,480	MARGE	... And those three people in Brainerd.	THE CRUISER
+00:51:23,570	00:51:26,770	CARL	That's right. And we need more money.	JERRY'S CUBICLE
+00:51:30,120	00:51:33,280	CARL	We need more -	JERRY'S CUBICLE
+00:51:33,370	00:51:37,910	JERRY	Well, I'm sorry, but I just - I -	JERRY'S CUBICLE
+00:51:42,040	00:51:46,460	JERRY	Oh, for Chrissakes here -	JERRY'S CUBICLE
+00:51:42,040	00:51:46,460	CARL	Blood has been shed. We've incurred risks, Jerry. I'm coming into town tomorrow. Have the money ready.	JERRY'S CUBICLE
+00:51:49,010	00:51:51,460	JERRY	Now we had a deal here! A deal's a deal!	JERRY'S CUBICLE
+00:51:51,550	00:51:56,100	CARL	IS IT, JERRY? You ask those three pour souls up in Brainerd if a deal's a deal! Go ahead, ask 'em!	JERRY'S CUBICLE
+00:51:56,180	00:51:59,680	JERRY	... The heck d'ya mean?	JERRY'S CUBICLE
+00:52:03,940	00:52:06,020	VOICE	Jerome Lundegaard?	JERRY'S CUBICLE
+00:52:06,110	00:52:09,110	VOICE	This is Reilly Deifenbach at GMAC. Sir, I have not yet recieved those vehicle IDs you promised me.	JERRY'S CUBICLE
+00:52:14,990	00:52:20,370	VOICE	Mr. Lundegaard, that very well may be. I must inform you, however, that absent the reciept of those numbers by tomorrow afternoon, I will have to refer this matter to our legal department.	JERRY'S CUBICLE
+00:52:23,380	00:52:25,450	VOICE	My patience is at an end.	JERRY'S CUBICLE
+00:52:25,540	00:52:27,000	VOICE	Good day, sir.	JERRY'S CUBICLE
+00:53:26,520	00:53:29,640	GARY	Hiya, Norm. How ya doin', Margie? How's the fricasse?	AT A TABLE
+00:53:29,730	00:53:32,730	MARGE	Pretty darn good, ya want some?	AT A TABLE
+00:53:32,820	00:53:37,200	GARY	No, I gotta - hey, Norm, I thought you were goin' fishin' up at Mile Lacs?	AT A TABLE
+00:53:44,750	00:53:49,660	GARY	The numbers y'asked for, calls made from the lobby pay phone at the Blue Ox. Two to Minneapolis that night.	AT A TABLE
+00:53:49,750	00:53:54,580	GARY	First one's a trucking company, second one's a private residence. A Shep Proudfoot.	AT A TABLE
+00:53:54,670	00:53:56,830	MARGE	Uh-huh... A what?	AT A TABLE
+00:53:56,930	00:53:59,380	GARY	Shep Proudfoot. That's a name.	AT A TABLE
+00:54:05,180	00:54:09,310	MARGE	... Yah, okay, I think I'll drive down there, then.	AT A TABLE
+00:54:27,290	00:54:30,160	WADE	Dammit! I wanna be a part a this thing!	KITCHEN OF LUNDEGAARD HOUSE
+00:54:34,540	00:54:39,120	JERRY	No, Wade! They were real clear! They said they'd call tomorrow, with instructions, and it's gonna be delivered by me alone!	KITCHEN OF LUNDEGAARD HOUSE
+00:54:34,540	00:54:39,120	WADE	It's my money, I'll deliver it	KITCHEN OF LUNDEGAARD HOUSE
+00:54:39,220	00:54:41,840	STAN	Wade's got a point there. I'll handle the call if you want, Jerry.	KITCHEN OF LUNDEGAARD HOUSE
+00:54:47,310	00:54:50,930	JERRY	No, no. See - they, no, see, they only deal with me. Ya feel this, this nervousness on the phone there, they're very - these guys're dangerous -	KITCHEN OF LUNDEGAARD HOUSE
+00:54:53,770	00:54:56,230	WADE	All the more reason! I don't want you - with all due respect, Jerry	KITCHEN OF LUNDEGAARD HOUSE
+00:54:59,400	00:55:02,020	WADE	They want my money, they can deal with me. Otherwise I'm goin' to a professional.	KITCHEN OF LUNDEGAARD HOUSE
+00:55:02,110	00:55:05,530	WADE	... There's a million dollars here!	KITCHEN OF LUNDEGAARD HOUSE
+00:55:05,620	00:55:09,280	JERRY	No, see -	KITCHEN OF LUNDEGAARD HOUSE
+00:55:05,620	00:55:09,280	WADE	Look, Jerry, you're not sellin' me a damn car. It's my show here. That's that.	KITCHEN OF LUNDEGAARD HOUSE
+00:55:13,460	00:55:16,790	STAN	It's the way we prefer to handle it, Jerry.	KITCHEN OF LUNDEGAARD HOUSE
+00:55:28,890	00:55:31,560	MARGE	Real good. I'm Mrs. Gunderson, I have a reservation.	THE DOWNTOWN RADISSON HOTEL
+00:55:32,770	00:55:35,440	CLERK	You sure do, Mrs. Gunderson.	THE DOWNTOWN RADISSON HOTEL
+00:55:35,520	00:55:38,310	MARGE	Is there a phone down here, ya think?	THE DOWNTOWN RADISSON HOTEL
+00:55:40,230	00:55:41,890	MARGE	... Detective Sibert? Yah, this is Marge Gunderson from up Brainerd, we spoke - Yah. Well, actually I'm in town here. I had to do a few things in the Twin Cities, so I thought I'd check in with ya about that USIF search on Shep Proudfoot... Oh, yah?... Well, maybe I'll go visit with him if I have the... No, I can find that... Well, thanks a bunch. Say, d'ya happen to know a good place for lunch in the downtown area?... Yah, the Radisson... Oh, yah? Is it reasonable?	LOBBY CORNER
+00:57:42,270	00:57:45,050	CARL	Yeah, I just came in. I decided not to park here.	EXIT BOOTH
+00:57:45,150	00:57:47,600	MARGE	I'm sorry.	HOTEL BAR
+00:57:59,700	00:58:02,450	CARL	I just pulled in here. I just fucking pulled in here!	EXIT BOOTH
+00:58:06,290	00:58:09,080	ATTENDANT	Well, see, there's a minimum charge of four dollars. Long-term parking charges by the day.	EXIT BOOTH
+00:58:13,720	00:58:18,710	CARL	I guess you think, ya know, you're an authority figure. With that stupid fucking uniform. Huh, buddy?	EXIT BOOTH
+00:58:19,640	00:58:22,890	CARL	... King Clip-on Tie here. Big fucking man.	EXIT BOOTH
+00:58:22,980	00:58:26,720	CARL	... You know, these are the limits of your life, man. Ruler of your little fucking gate here. There's your four dollars. You pathetic piece of shit.	EXIT BOOTH
+00:58:32,150	00:58:35,570	JERRY	Where's Shep?	GUSTAFSON OLDS GARAGE
+00:58:32,150	00:58:35,570	MECHANIC	Talkin' to a cop.	GUSTAFSON OLDS GARAGE
+00:58:35,650	00:58:38,940	JERRY	... Cop?	GUSTAFSON OLDS GARAGE
+00:58:35,650	00:58:38,940	MECHANIC	Said she was a policewoman.	GUSTAFSON OLDS GARAGE
+00:58:41,660	00:58:44,360	MARGE	Wednesday night?	INSIDE THE CUBICLE
+00:58:46,080	00:58:50,370	MARGE	Well, you do reside their at 1425 Fremont Terrace?	INSIDE THE CUBICLE
+00:58:50,460	00:58:53,580	MARGE	Anyone else residing there?	INSIDE THE CUBICLE
+00:58:53,670	00:58:57,880	MARGE	Well, Mr. Proudfoot, this call came in past three in the morning. It's just hard for me to believe you can't remember anyone calling.	INSIDE THE CUBICLE
+00:59:02,550	00:59:04,710	MARGE	... Now, I know you've had some problems, struggling with the narcotics, some other entanglements, currently on parole -	INSIDE THE CUBICLE
+00:59:10,400	00:59:12,930	SHEP	So?	INSIDE THE CUBICLE
+00:59:10,400	00:59:12,930	MARGE	Well, associating with criminals, if you're the one they talked to, that right there would be a violation of your parole and would end with you back in Stillwater.	INSIDE THE CUBICLE
+00:59:20,490	00:59:24,070	MARGE	Now, I saw some rough stuff on your priors, but nothing in the nature of a homicide...	INSIDE THE CUBICLE
+00:59:24,160	00:59:28,110	MARGE	... I know you don't want to be an accessory to something like that.	INSIDE THE CUBICLE
+00:59:30,160	00:59:34,580	MARGE	So you think you might remember who those folks were who called ya?	INSIDE THE CUBICLE
+00:59:45,260	00:59:49,260	MARGE	I wonder if I could take just a minute of your time here -	JERRY'S OFFICE
+00:59:45,260	00:59:49,260	JERRY	What... What is it all about?	JERRY'S OFFICE
+00:59:53,230	00:59:57,640	JERRY	Naw, I... Executive Sales Manager.	JERRY'S OFFICE
+00:59:57,730	01:00:01,780	JERRY	My father-in-law, he's the owner.	JERRY'S OFFICE
+01:00:01,860	01:00:06,900	MARGE	Uh-huh. Well, I'm a police officer from up Brainerd investigating some malfeasance and I was just wondering if you've had any new vehicles stolen off the lot in the past couple of weeks - specifically a tan Cutlass Ciera?	JERRY'S OFFICE
+01:00:24,840	01:00:26,830	JERRY	... Brainerd?	JERRY'S OFFICE
+01:00:26,930	01:00:30,590	MARGE	Yah. Yah. Home a Paul Bunyan and Babe the Blue Ox.	JERRY'S OFFICE
+01:00:36,600	01:00:39,890	MARGE	Yah, ya know we've got the big statue there. So you haven't had any vehicles go missing, then?	JERRY'S OFFICE
+01:00:48,490	01:00:53,240	MARGE	Okey-dokey, thanks a bunch. I'll let you get back to your paperwork, then.	JERRY'S OFFICE
+01:01:07,090	01:01:09,660	JERRY	... Yah, gimmee Shep... The heck d'ya mean?... Well, where'd he go? It's only... No, I don't need a mechanic - oh, geez - I gotta talk to a friend of his, so, uh ... have him, uh ... oh, geez...	JERRY'S OFFICE
+01:01:52,590	01:01:54,390	MARGE	Oh, yah, but there's not a heckuva lot to discuss. What about you, Mike? Are you married - you have kids?	HOTEL BAR
+01:01:57,470	01:01:58,930	MIKE	Geez! You look great!	HOTEL BAR
+01:02:04,860	01:02:07,140	MARGE	Yah - easy there - you do too! I'm expecting, ya know.	HOTEL BAR
+01:02:07,230	01:02:09,900	MIKE	I see that! That's great!	HOTEL BAR
+01:02:09,990	01:02:13,400	MIKE	... What can I get ya?	HOTEL BAR
+01:02:09,990	01:02:13,400	MARGE	Just a Diet Coke.	HOTEL BAR
+01:02:13,490	01:02:15,730	MIKE	Great. What brings ya down - are ya down here on that homicide - if you're allowed, ya know, to discuss that?	HOTEL BAR
+01:02:15,830	01:02:17,900	MARGE	... This is a nice place.	HOTEL BAR
+01:02:26,590	01:02:28,130	MARGE	So ... they didn't...	HOTEL ROOM
+01:02:28,210	01:02:32,130	MARGE	You're livin' in Edina, then?	HOTEL BAR
+01:02:32,220	01:02:35,550	MIKE	Oh, yah, couple years now. It's actually Eden Prarie - that school district. So Chief Gunderson, then! So ya went and married Norm Son-of- a-Gunderson!	HOTEL BAR
+01:03:05,210	01:03:07,780	MIKE	Well, yah, I was married. I was married to - You mind if I sit over here?	HOTEL BAR
+01:03:10,250	01:03:14,960	MIKE	... I was married to Linda Cooksey -	HOTEL BAR
+01:03:10,250	01:03:14,960	MARGE	No, I - Mike - wyncha sit over there, I'd prefer that.	HOTEL BAR
+01:03:25,100	01:03:29,680	MARGE	No, just so I can see ya, ya know. Don't have to turn my neck.	HOTEL BAR
+01:03:25,100	01:03:29,680	GARY	I unnerstand.	OUTSIDE
+01:03:29,770	01:03:32,890	MIKE	Oh, sure, I unnerstand, I didn't mean to -	HOTEL BAR
+01:03:32,980	01:03:35,060	MARGE	No, no, that's fine.	HOTEL BAR
+01:03:39,950	01:03:45,490	MARGE	Linda Cooksey?	HOTEL ROOM
+01:03:49,710	01:03:51,370	MARGE	I think I remember Linda, yah. She was - yah. So things didn't work out, huh?	HOTEL BAR
+01:03:51,460	01:03:55,210	MIKE	And then I, and then I been workin' for Honeywell for a few years now.	HOTEL BAR
+01:03:55,300	01:04:00,250	MARGE	Well, they're a good outfit.	HOTEL BAR
+01:04:00,340	01:04:04,010	MIKE	Yah, if you're an engineer, yah, you could do a lot worse. Of course, it's not, uh, it's nothin' like your achievement.	HOTEL BAR
+01:04:04,350	01:04:07,380	MARGE	It sounds like you're doin' really super.	HOTEL BAR
+01:04:07,480	01:04:10,590	MIKE	Yah, well, I, uh ... it's not that it didn't work out - Linda passed away. She, uh...	HOTEL BAR
+01:04:13,650	01:04:17,020	MIKE	Yah, I, uh... She had leukemia, you know...	HOTEL BAR
+01:04:23,320	01:04:26,030	MIKE	It was a tough, uh ... it was a long - She fought real hard, Marge...	HOTEL BAR
+01:04:39,630	01:04:41,870	MARGE	Better times.	HOTEL BAR
+01:04:48,560	01:04:52,170	MIKE	I was so... I been so ... and then I saw you on TV, and I remembered, ya know... I always liked you...	HOTEL BAR
+01:04:52,850	01:04:57,020	MARGE	Well, I always liked you, Mike.	HOTEL BAR
+01:04:52,850	01:04:57,020	MIKE	I always liked ya so much...	HOTEL BAR
+01:05:00,190	01:05:02,860	MARGE	It's okay, Mike - Should we get together another time, ya think?	HOTEL BAR
+01:05:15,370	01:05:18,740	MIKE	... I'm sorry... I shouldn't a done this... I thought we'd have a really terrific time, and now I've...	HOTEL BAR
+01:05:18,840	01:05:21,540	MIKE	You were such a super lady ... and then I... I been so lonely...	HOTEL BAR
+01:05:58,920	01:06:01,200	CARL	Just in town on business. Just in and out. Ha ha! A little of the old in-and-out!	CARLTON CELEBRITY ROOM
+01:06:15,430	01:06:20,470	CARL	Have ya been to the Celebrity Room before? With other, uh, clients?	CARLTON CELEBRITY ROOM
+01:06:20,560	01:06:23,560	WOMAN	I don't think so. It's nice.	CARLTON CELEBRITY ROOM
+01:06:23,650	01:06:26,190	CARL	Yeah, well, it depends on the artist. You know, Jose Feliciano, ya got no complaints. Waiter!	CARLTON CELEBRITY ROOM
+01:06:33,330	01:06:35,650	CARL	... What is he, deaf?... So, uh, how long have you been with the escort service?	CARLTON CELEBRITY ROOM
+01:06:43,710	01:06:46,040	CARL	Ya find the work interesting, do ya?	CARLTON CELEBRITY ROOM
+01:07:03,190	01:07:07,100	CARL	Shep! What the hell are you doing? I'm banging that girl! Shep! Jesus Ch -	A DIRTY BEDROOM
+01:07:22,370	01:07:24,580	CARL	Fuck you, man! Where's Jerry? I gave SIMPLE FUCKING INSTRUCTIONS -	DAYTON-RADISSON RAMP
+01:07:33,590	01:07:37,260	CARL	Stay away from me, man! Hey! Smoke a fuckin' peace pipe, man! Don't you dare fuckin' - Unghh!	A DIRTY BEDROOM
+01:08:03,750	01:08:06,240	CARL	All right, Jerry, I'm through fucking around. You got the fucking money?	CHAIN RESTAURANT PHONE BOOTH
+01:08:06,330	01:08:09,530	JERRY	Yah, I got the money, but, uh -	JERRY'S KITCHEN
+01:08:15,090	01:08:17,660	CARL	Don't you fucking but me, Jerry. I want you with this money on the Dayton-Radisson parking ramp, top level, thirty minutes, and we'll wrap this up.	JERRY'S KITCHEN
+01:08:15,090	01:08:17,660	JERRY	Well, heck, if you wanna, if you wanna play games here! I'm workin' with ya on this thing, but I...	JERRY LUNDEGAARD'S OFFICE
+01:08:24,890	01:08:27,930	JERRY	... Yah, well, you stay away from Scotty now -	JERRY'S KITCHEN
+01:08:24,890	01:08:27,930	CARL	You're there in thirty minutes or I find you, Jerry, and I shoot you, and I shoot your fucking wife, and I shoot all your little fucking children, and I shoot 'em all in the back of their little fucking heads. Got it?	JERRY'S KITCHEN
+01:08:54,710	01:08:56,450	VOICE	... Dad?	JERRY'S HOUSE
+01:09:02,390	01:09:06,550	JERRY	Be back in a minute. If Stan calls you, just tell him I went to Embers. Oh, geez -	JERRY'S HOUSE
+01:09:08,930	01:09:12,020	WADE	Okay ... here's your damn money, now where's my daughter?... Goddamn punk ... where's my damn daughter...	INT. CAR
+01:09:13,770	01:09:16,010	WADE	I got your goddamn money, you little punk. Now where's my daughter?	DAYTON-RADISSON RAMP
+01:09:37,000	01:09:39,080	CARL	Who the fuck are you? Who the fuck are you?	DAYTON-RADISSON RAMP
+01:09:43,300	01:09:46,010	WADE	Where's my daughter?	DAYTON-RADISSON RAMP
+01:09:47,510	01:09:50,960	CARL	I am through fucking around! Drop that fucking briefcase!	DAYTON-RADISSON RAMP
+01:09:57,560	01:10:00,600	WADE	Where's my damn daughter? No Jean, no money!	DAYTON-RADISSON RAMP
+01:10:00,690	01:10:04,390	CARL	Drop that fucking money!	DAYTON-RADISSON RAMP
+01:10:06,030	01:10:08,110	CARL	Is this a fucking joke here?	DAYTON-RADISSON RAMP
+01:10:22,130	01:10:24,200	CARL	You fucking imbeciles!	DAYTON-RADISSON RAMP
+01:11:51,050	01:11:53,010	ATTENDANT	May I have your ticket, please?	EXIT BOOTH
+01:13:28,520	01:13:30,810	JERRY	Well... I'm goin' ta bed now.	FOYER
+01:14:07,510	01:14:09,590	GARY	Mr. Mohra?	OUTSIDE
+01:14:09,680	01:14:11,560	GARY	Officer Olson.	OUTSIDE
+01:14:55,140	01:14:59,440	GARY	Ya got that right.	OUTSIDE
+01:15:24,340	01:15:30,130	GARY	What'd this guy look like anyways?	OUTSIDE
+01:15:33,680	01:15:39,220	GARY	Okay, well, thanks a bunch, Mr. Mohra. You're right, it's probably nothin', but thanks for callin' her in.	OUTSIDE
+01:15:39,310	01:15:40,770	YOUNGER_MAN	Sure, Jerry, we're all set. Why wouldn't we be?	INSIDE
+01:18:26,720	01:18:29,010	MARGE	No, I'm leavin' this mornin', back up to Brainerd.	HOTEL ROOM
+01:18:29,100	01:18:32,600	VOICE	Well, I'm sorry I won't see ya.	HOTEL ROOM
+01:18:29,100	01:18:32,600	MARGE	Mm. But ya think he's all right? I saw him last night and he's -	HOTEL ROOM
+01:18:35,320	01:18:40,480	MARGE	Well, it was nothin' specific he said, it just seemd like it all hit him really hard, his wife dyin' -	HOTEL ROOM
+01:18:40,570	01:18:42,230	VOICE	His wife?	HOTEL ROOM
+01:18:40,570	01:18:42,230	MARGE	Linda.	HOTEL ROOM
+01:18:42,320	01:18:44,200	VOICE	... Who?...	MOTEL ROOM DOORWAY
+01:18:59,590	01:19:03,500	VOICE	No. No. They never married. Mike's had psychiatric problems.	HOTEL ROOM
+01:19:08,600	01:19:12,350	VOICE	Yah, Linda's fine. You should call her.	HOTEL ROOM
+01:19:12,440	01:19:15,770	LOU	... Geez.	INT. PROWLER
+01:19:17,610	01:19:19,680	MARGE	Geez. Well - geez. That's a suprise.	HOTEL ROOM
+01:20:11,410	01:20:14,440	MARGE	Mr. Lundegaard? Sorry to bother you again. Can I come in?	JERRY LUNDEGAARD'S OFFICE
+01:20:17,620	01:20:19,990	MARGE	I unnerstand. I'll keep it real short, then. I'm on my way out of town, but I was just - Do you mind if I sit down? I'm carrying a bit of a load here.	JERRY LUNDEGAARD'S OFFICE
+01:20:29,550	01:20:32,630	JERRY	Yah, like I told ya, we haven't had any vehicles go missing.	JERRY LUNDEGAARD'S OFFICE
+01:20:35,850	01:20:37,920	MARGE	Okay, are you sure, cause, I mean, how do you know? Because, see, the crime I'm investigating, the perpetrators were driving a car with dealer plates. And they called someone who works here, so it'd be quite a coincidence if they weren't, ya know, connected.	JERRY LUNDEGAARD'S OFFICE
+01:20:47,940	01:20:50,940	JERRY	Yah, I see.	JERRY LUNDEGAARD'S OFFICE
+01:20:47,940	01:20:50,940	MARGE	So how do you - have you done any kind of inventory recently?	JERRY LUNDEGAARD'S OFFICE
+01:20:51,030	01:20:54,940	JERRY	The car's not from our lot, ma'am.	JERRY LUNDEGAARD'S OFFICE
+01:20:55,040	01:20:58,980	JERRY	Well, I would know. I'm the Executive Sales Manager.	JERRY LUNDEGAARD'S OFFICE
+01:21:02,460	01:21:07,250	JERRY	We run a pretty tight ship here.	JERRY LUNDEGAARD'S OFFICE
+01:21:07,340	01:21:10,620	MARGE	I know, but - well, how do you establish that, sir? Are the cars, uh, counted daily or what kind of -	JERRY LUNDEGAARD'S OFFICE
+01:21:10,720	01:21:13,470	JERRY	Ma'am, I answered your question.	JERRY LUNDEGAARD'S OFFICE
+01:21:17,510	01:21:20,850	MARGE	... I'm sorry, sir?	JERRY LUNDEGAARD'S OFFICE
+01:21:21,600	01:21:26,180	JERRY	Ma'am, I answered your question. I answered the darn - I'm cooperating here, and I...	JERRY LUNDEGAARD'S OFFICE
+01:21:29,650	01:21:34,150	MARGE	Sir, you have no call to get snippy with me. I'm just doin' my job here.	JERRY LUNDEGAARD'S OFFICE
+01:21:37,030	01:21:40,450	JERRY	I'm not, uh, I'm not arguin' here. I'm cooperating... There's no, uh	JERRY LUNDEGAARD'S OFFICE
+01:21:51,710	01:21:54,250	MARGE	Sir, could I talk to Mr. Gustafson?	JERRY LUNDEGAARD'S OFFICE
+01:22:09,560	01:22:12,440	JERRY	Okay, I'll do a damned lot count!	JERRY LUNDEGAARD'S OFFICE
+01:22:12,530	01:22:15,020	MARGE	Sir? Right now?	JERRY LUNDEGAARD'S OFFICE
+01:22:12,530	01:22:15,020	JERRY	Yah, right -	INT. WADE'S OFFICE
+01:22:18,320	01:22:21,990	JERRY	... If it's so damned imporant to ya!	JERRY LUNDEGAARD'S OFFICE
+01:22:24,120	01:22:26,200	JERRY	Aw, what the Christ!	JERRY LUNDEGAARD'S OFFICE
+01:23:09,790	01:23:12,200	MARGE	... Oh, for Pete's sake.	JERRY LUNDEGAARD'S OFFICE
+01:23:30,600	01:23:32,760	MARGE	... Detective Sibert, please...	JERRY LUNDEGAARD'S OFFICE
+01:24:19,610	01:24:21,600	CARL	... The fuck happen a her?	POLICE OFFICER
+01:24:22,740	01:24:25,410	GRIMSRUD	She started shrieking, you know.	POLICE OFFICER
+01:24:45,760	01:24:48,630	CARL	... You c'n'ave my truck. I'm takin' a Shiera.	POLICE OFFICER
+01:24:49,050	01:24:51,510	GRIMSRUD	We split that.	POLICE OFFICER
+01:24:52,560	01:24:57,600	CARL	How the fuck do we split a fuckin' car? Ya dummy! With a fuckin' chainshaw?	POLICE OFFICER
+01:24:58,400	01:25:00,970	GRIMSRUD	One of us pays the other for half.	POLICE OFFICER
+01:25:28,130	01:25:30,590	CARL	... Are we shquare?	POLICE OFFICER
+01:25:39,640	01:25:44,680	CARL	... Fuckin' ash-hole. And if you shee your friend Shep Proudpfut, tell him I'm gonna NAIL hizh fuckin' ash.	POLICE OFFICER
+01:26:03,460	01:26:06,000	MARGE	The day of our homicides.	OUTSIDE
+01:26:06,090	01:26:10,130	VOICE	Lundegaard's father-in-law's accountant.	OUTSIDE
+01:26:10,210	01:26:13,130	MARGE	Gustafson's accountant.	OUTSIDE
+01:26:13,220	01:26:16,500	MARGE	But we still haven't found Gustafson.	OUTSIDE
+01:26:16,600	01:26:20,050	MARGE	Sorry - didn't copy.	OUTSIDE
+01:26:16,600	01:26:20,050	VOICE	Still missing. We're looking.	OUTSIDE
+01:26:20,140	01:26:24,640	MARGE	Copy.	OUTSIDE
+01:26:27,820	01:26:31,400	VOICE	Oh. Gary's loudmouth.	OUTSIDE
+01:26:27,820	01:26:31,400	MARGE	Yah, the loudmouth. So the whole state has it, Lundegaard and Gustafson?	OUTSIDE
+01:26:37,910	01:26:40,450	MARGE	Copy. And Lundegaard too.	OUTSIDE
+01:26:40,540	01:26:43,110	MARGE	There's the car! There's the car!	OUTSIDE
+01:26:40,540	01:26:43,110	VOICE	Whose car?	OUTSIDE
+01:26:43,210	01:26:46,990	MARGE	My car! My car! Tan Ciera!	OUTSIDE
+01:28:43,740	01:28:45,810	MARGE	Stop! Police! Turn around and hands up!	ROAD EXTERIOR
+01:28:52,660	01:28:54,540	MARGE	... Hands up!	ROAD EXTERIOR
+01:30:08,820	01:30:12,490	MARGE	... I guess that was your accomplice in the wood chipper.	THE CRUISER
+01:30:24,750	01:30:27,420	MARGE	... And for what? For a little bit of money.	THE CRUISER
+01:30:34,810	01:30:38,050	MARGE	... There's more to life than money, you know.	THE CRUISER
+01:30:47,770	01:30:50,060	MARGE	... Don't you know that?... And here ya are, and it's a beautiful day...	THE CRUISER
+01:31:24,310	01:31:26,390	MARGE	... I just don't unnerstand it.	THE CRUISER
+01:32:11,610	01:32:13,850	COP_ONE	Mr. Anderson...	MOTEL ROOM DOORWAY
+01:32:13,940	01:32:16,180	COP_ONE	Mr. Anderson, is this your burgundy 88 out here?	MOTEL ROOM DOORWAY
+01:32:17,780	01:32:20,860	VOICE	... Just a sec.	MOTEL ROOM DOORWAY
+01:32:17,780	01:32:20,860	COP_ONE	Could you open the door, please?	MOTEL ROOM DOORWAY
+01:32:20,950	01:32:23,440	VOICE	... Yah. Yah, just a sec.	MOTEL ROOM DOORWAY
+01:33:15,130	01:33:18,040	NORM	They announced it.	A BEDROOM
+01:33:18,130	01:33:21,170	MARGE	They announced it?	A BEDROOM
+01:33:23,340	01:33:25,670	NORM	Three-cent stamp.	A BEDROOM
+01:33:25,760	01:33:29,260	MARGE	Your mallard?	A BEDROOM
+01:33:29,350	01:33:31,420	MARGE	That's terrific.	A BEDROOM
+01:33:31,520	01:33:34,800	NORM	It's just the three cent.	A BEDROOM
+01:33:34,900	01:33:38,180	NORM	Hautman's blue-winged teal got the twenty-nine cent. People don't much use the three-cent.	A BEDROOM
+01:33:44,160	01:33:48,230	MARGE	Oh, for Pete's - a course they do! Every time they raise the darned postage, people need the little stamps!	A BEDROOM
+01:33:49,490	01:33:52,740	MARGE	When they're stuck with a bunch a the old ones!	A BEDROOM
+01:33:52,830	01:33:55,950	NORM	Yah, I guess.	A BEDROOM
+01:34:12,720	01:34:14,800	MARGE	I love you, Norm.	A BEDROOM
+01:34:17,480	01:34:19,550	NORM	... Two more months.	A BEDROOM

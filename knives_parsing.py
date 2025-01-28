@@ -3,7 +3,7 @@ import os
 import json
 from api import * #PATHS TO LOCAL SYSTEM - this is where we store the extracted files and such
 
-def character_name_parser():
+def knives_character_name_parser():
     with open(knives_extracted, "r") as file:
         text_data = file.read()
     # print(text_data)
@@ -46,7 +46,7 @@ def character_name_parser():
         file.write(text_data)
 
 # todo:// better function name
-def text_to_json():
+def knives_text_to_json():
     # extraced from LLM (todo:// look into generalizable regex to automate this)
     scene_locations = [
         "The Lunar Room",

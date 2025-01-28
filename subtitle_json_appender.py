@@ -1,7 +1,15 @@
 import re
 import json
 from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 import csv
+from api import * # personal file paths
+from datetime import datetime, timedelta # for fargo short dialogue
+
+
+# Normalize text for comparison
+def normalize_text(text):
+    return re.sub(r"[^\w\s]", "", text.lower().strip())
 
 # ASSUMES .SRT SUBTITLE FILE TYPE
 def parse_subtitles(file_path):
@@ -39,18 +47,79 @@ def parse_subtitles(file_path):
 
     return subtitles
 
-def match_subtitles_to_json(subtitles, json_file_path, output_tsv_path, threshold=20, length_match_cutoff=0.9,
-                            length_buffer=1.1):
+# assumes .srt
+# fargo needs a separate one as multi-dialogue appears in file, which previous attempt doesnt handle
+def fargo_parse_subtitles_with_characters(file_path):
+    subtitles = []
+    with open(file_path, 'r', encoding='utf-8') as file:
+        current_sub = {"start_time": "", "end_time": "", "text": ""}
+        for line in file:
+            line = line.strip()
+            # Skip blank lines
+            if not line:
+                if current_sub["start_time"] and current_sub["end_time"] and current_sub["text"]:
+                    # Split text by "-" if multiple characters are present
+                    lines = [l.strip() for l in current_sub["text"].split("-") if l.strip()]
+                    for l in lines:
+                        subtitles.append({
+                            "start_time": current_sub["start_time"],
+                            "end_time": current_sub["end_time"],
+                            "text": l
+                        })
+                current_sub = {"start_time": "", "end_time": "", "text": ""}
+                continue
+
+            # Match timestamps
+            if re.match(r'\d{2}:\d{2}:\d{2}[.,]\d{3} --> \d{2}:\d{2}:\d{2}[.,]\d{3}', line):
+                times = line.split(" --> ")
+                current_sub["start_time"] = times[0]
+                current_sub["end_time"] = times[1]
+            elif re.match(r"^\d+$", line):  # Skip index numbers
+                continue
+            else:
+                # Accumulate subtitle text
+                current_sub["text"] += f" {line}" if current_sub["text"] else line
+
+        # Add the last subtitle if it exists
+        if current_sub["start_time"] and current_sub["end_time"] and current_sub["text"]:
+            lines = [l.strip() for l in current_sub["text"].split("-") if l.strip()]
+            for l in lines:
+                subtitles.append({
+                    "start_time": current_sub["start_time"],
+                    "end_time": current_sub["end_time"],
+                    "text": l
+                })
+
+    return subtitles
+
+"""
+param settings:
+truman show - threshold = 20, length_match_cutoff=.9, length_buffer=1.1
+"""
+def match_subtitles_to_json(subtitles, json_file_path, output_tsv_path, threshold=25, length_match_cutoff=1.0, length_buffer=1.0):
+    
     with open(json_file_path, 'r') as file:
         json_data = json.load(file)
 
     matches = []
     for entry in json_data:
+
+        # skips non-dialogue for truman
+        # # skipping non dialogue entries
+        # if not entry.get("text", ""):
+        #     continue
+
+        # skips non-dialogue for fargo
+        if not entry.get("dialogue", ""):
+            continue
+
         character = entry.get("character", "Unknown")
-        dialogue = entry.get("text", "").strip()
+        #dialogue = entry.get("text", "").strip() #truman json uses text to indicate dialogue
+        dialogue = entry.get("dialogue", "").strip() # fargo uses dialogue to indicate dialogue
         setting = entry.get("scene", "Unknown")
 
         clean_dialogue = re.sub(r'[^\w\s]', '', dialogue.lower())  # Clean dialogue text
+        #clean_dialogue = dialogue
         dialogue_length = len(clean_dialogue)
 
         # Skip processing if the dialogue is empty
@@ -67,8 +136,9 @@ def match_subtitles_to_json(subtitles, json_file_path, output_tsv_path, threshol
         # Step through the subtitles
         for idx in range(len(subtitles)):
             sub = subtitles[idx]
+            #subtitle_text = sub["text"]
             subtitle_text = re.sub(r'[^\w\s]', '', sub["text"].lower())  # Clean subtitle text
-
+            #print(subtitle_text)
             # Capture start_time only for the first subtitle in the group
             if start_time is None and sub.get("start_time"):
                 start_time = sub["start_time"]
@@ -135,12 +205,94 @@ def match_subtitles_to_json(subtitles, json_file_path, output_tsv_path, threshol
 
     print(f"Output written to {output_tsv_path}")
 
-subtitles_file = './truman_subtitles.txt'
-json_file = './truman_full.json'
-final_output = './trauman_output.tsv'
+# Helper function to parse subtitle time into a datetime object
+def parse_timecode(timecode):
+    return datetime.strptime(timecode, "%H:%M:%S,%f")
+
+def fargo_match_subtitles_to_json(subtitles, json_file_path, output_tsv_path, threshold=30, time_buffer=15):
+    with open(json_file_path, 'r') as file:
+        json_data = json.load(file)
+
+    matches = []
+    json_index = 0  # Start at the beginning of the JSON data
+
+    for sub in subtitles:
+        subtitle_text = normalize_text(sub["text"])
+        subtitle_start = parse_timecode(sub["start_time"])
+        subtitle_end = parse_timecode(sub["end_time"])
+        found_match = False
+
+        while json_index < len(json_data):
+            entry = json_data[json_index]
+            dialogue = entry.get("dialogue", "").strip()
+            character = entry.get("character", "Unknown")
+            setting = entry.get("scene", "Unknown")
+
+            if not dialogue:
+                # Skip entries without dialogue
+                print(f"DEBUG: Skipping JSON Entry with No Dialogue: {entry}")
+                json_index += 1
+                continue
+
+            clean_dialogue = normalize_text(dialogue)
+
+            # Skip JSON entries that are too early
+            if "timestamp" in entry:
+                json_time = parse_timecode(entry["timestamp"])
+                if json_time + timedelta(seconds=time_buffer) < subtitle_start:
+                    print(f"Skipping JSON Entry Too Early: {entry}")
+                    json_index += 1
+                    continue
+
+            # Stop matching if JSON entry is too late
+            if "timestamp" in entry:
+                json_time = parse_timecode(entry["timestamp"])
+                if subtitle_end + timedelta(seconds=time_buffer) < json_time:
+                    print(f"Stopping JSON Match Too Late: {entry}")
+                    break
+
+            # Fuzzy matching between subtitle and JSON dialogue
+            score = fuzz.ratio(subtitle_text, clean_dialogue)
+            print(f"DEBUG: Subtitle = {subtitle_text}, JSON Dialogue = {clean_dialogue}, Score = {score}")
+
+            if score >= threshold:
+                matches.append({
+                    "start_time": sub["start_time"],
+                    "end_time": sub["end_time"],
+                    "character": character,
+                    "dialogue": dialogue,
+                    "scene": setting,
+                    "score": score
+                })
+                json_index += 1  # Move to the next JSON entry after a match
+                found_match = True
+                break
+
+            # If no match, increment the JSON index
+            json_index += 1
+
+        # If no match was found for this subtitle, log it
+        if not found_match:
+            print(f"DEBUG: No Match Found for Subtitle: {subtitle_text}")
+
+    # Write results to a TSV file
+    with open(output_tsv_path, "w", newline="", encoding="utf-8") as tsvfile:
+        writer = csv.writer(tsvfile, delimiter="\t")
+        writer.writerow(["Start", "End", "Character", "Line", "Scene", "Score"])
+        for match in matches:
+            writer.writerow([match["start_time"], match["end_time"], match["character"], match["dialogue"], match["scene"], match["score"]])
+
+    print(f"Output written to {output_tsv_path}")
+
 
 # Parse subtitles
-subtitles = parse_subtitles(subtitles_file)
+subtitles = fargo_parse_subtitles_with_characters(fargo_subtitles)
+
+with open("./hidden_output/other/fargo_sub_output.txt", "w") as f:
+    for sub in subtitles:
+        f.write(f"{sub}\n")
+
+#print(subtitles)
 
 # Match subtitles to JSON dialogues
-match_subtitles_to_json(subtitles, json_file, final_output)
+fargo_match_subtitles_to_json(subtitles, fargo_json, fargo_final)
